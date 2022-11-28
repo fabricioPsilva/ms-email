@@ -15,6 +15,8 @@ public class EmailService {
 	public void sendEmail(EmailModel emailModel) {
 		// USA O SMTP DO GMAIL PARA ENVIO
 		// POSTERIOR TROCAR PELO AMAZON SIMPLE EMAIL SERVICE
+		
+		
 	}
 
 }
