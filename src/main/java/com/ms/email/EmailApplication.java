@@ -3,7 +3,7 @@ package com.ms.email;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication   
 public class EmailApplication {
 
 	public static void main(String[] args) {
